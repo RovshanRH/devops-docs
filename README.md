@@ -5,4 +5,4 @@ GitHub Pages.
 - конфигурация MkDocs: `mkdocs.yml`;
 - CI: `.github/workflows/quality.yml`;
 - публикация: `.github/workflows/pages.yml`.
-Каталог `site/` является результатом сборки и не хранится в Git.
+Каталог `site/` является результатом сборки и не хранится в Git
